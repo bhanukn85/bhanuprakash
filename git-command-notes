@@ -1,0 +1,14 @@
+sudo apt install git
+git clone https://github.com/username/repository
+
+To add files to git location : 
+
+git add *
+git commit -m "Comments"
+git push orgin master
+
+git -- help
+#for git help
+:wq
+:wq!
+
